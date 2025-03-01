@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|solutionrelative:BenzJonathanIGME750Assignment3\\sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|solutionrelative:BenzJonathanIGME750Assignment3\\sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|solutionrelative:BenzJonathanIGME750Assignment3\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|solutionrelative:BenzJonathanIGME750Assignment3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|solutionrelative:BenzJonathanIGME750Assignment3\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\game_object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|solutionrelative:BenzJonathanIGME750Assignment3\\game_object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\game_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|solutionrelative:BenzJonathanIGME750Assignment3\\game_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\projectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|solutionrelative:BenzJonathanIGME750Assignment3\\projectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\projectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFE26D00-A2DC-470C-B8A3-BA33830D80FB}|BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3.vcxproj|solutionrelative:BenzJonathanIGME750Assignment3\\projectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "projectile.cpp",
+              "DocumentMoniker": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\projectile.cpp",
+              "RelativeDocumentMoniker": "BenzJonathanIGME750Assignment3\\projectile.cpp",
+              "ToolTip": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\projectile.cpp",
+              "RelativeToolTip": "BenzJonathanIGME750Assignment3\\projectile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T00:45:03.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "projectile.h",
+              "DocumentMoniker": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\projectile.h",
+              "RelativeDocumentMoniker": "BenzJonathanIGME750Assignment3\\projectile.h",
+              "ToolTip": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\projectile.h",
+              "RelativeToolTip": "BenzJonathanIGME750Assignment3\\projectile.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-19T00:39:39.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "game_object.cpp",
+              "DocumentMoniker": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\game_object.cpp",
+              "RelativeDocumentMoniker": "BenzJonathanIGME750Assignment3\\game_object.cpp",
+              "ToolTip": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\game_object.cpp",
+              "RelativeToolTip": "BenzJonathanIGME750Assignment3\\game_object.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T23:36:54.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "game_object.h",
+              "DocumentMoniker": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\game_object.h",
+              "RelativeDocumentMoniker": "BenzJonathanIGME750Assignment3\\game_object.h",
+              "ToolTip": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\game_object.h",
+              "RelativeToolTip": "BenzJonathanIGME750Assignment3\\game_object.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-18T23:35:39.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sprite.cpp",
+              "DocumentMoniker": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\sprite.cpp",
+              "RelativeDocumentMoniker": "BenzJonathanIGME750Assignment3\\sprite.cpp",
+              "ToolTip": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\sprite.cpp",
+              "RelativeToolTip": "BenzJonathanIGME750Assignment3\\sprite.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T15:15:26.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sprite.h",
+              "DocumentMoniker": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\sprite.h",
+              "RelativeDocumentMoniker": "BenzJonathanIGME750Assignment3\\sprite.h",
+              "ToolTip": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\sprite.h",
+              "RelativeToolTip": "BenzJonathanIGME750Assignment3\\sprite.h",
+              "ViewState": "AgIAAAUAAABAzczMzMwXwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-18T15:10:29.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\game.cpp",
+              "RelativeDocumentMoniker": "BenzJonathanIGME750Assignment3\\game.cpp",
+              "ToolTip": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\game.cpp",
+              "RelativeToolTip": "BenzJonathanIGME750Assignment3\\game.cpp",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T14:12:25.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\game.h",
+              "RelativeDocumentMoniker": "BenzJonathanIGME750Assignment3\\game.h",
+              "ToolTip": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\game.h",
+              "RelativeToolTip": "BenzJonathanIGME750Assignment3\\game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-18T14:00:02.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\main.cpp",
+              "RelativeDocumentMoniker": "BenzJonathanIGME750Assignment3\\main.cpp",
+              "ToolTip": "C:\\Users\\zombi\\source\\repos\\BenzJonathanIGME750Assignment3\\BenzJonathanIGME750Assignment3\\main.cpp",
+              "RelativeToolTip": "BenzJonathanIGME750Assignment3\\main.cpp",
+              "ViewState": "AgIAADsAAAAAPDMzMzPrvxAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T13:19:40.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
