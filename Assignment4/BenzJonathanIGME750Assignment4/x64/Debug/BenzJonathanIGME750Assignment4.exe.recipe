@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\zombi\source\repos\BenzJonathanIGME750Assignment4\x64\Debug\BenzJonathanIGME750Assignment4.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\zombi\source\repos\BenzJonathanIGME750Assignment4\BenzJonathanIGME750Assignment4\tankFiringSound.wav</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

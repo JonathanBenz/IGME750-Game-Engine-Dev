@@ -1,0 +1,9 @@
+﻿  game.cpp
+C:\Users\zombi\source\repos\BenzJonathanIGME750Assignment4\BenzJonathanIGME750Assignment4\game.cpp(71,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\zombi\source\repos\BenzJonathanIGME750Assignment4\BenzJonathanIGME750Assignment4\game.cpp(95,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\zombi\source\repos\BenzJonathanIGME750Assignment4\BenzJonathanIGME750Assignment4\game.cpp(216,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\zombi\source\repos\BenzJonathanIGME750Assignment4\BenzJonathanIGME750Assignment4\main.cpp(65,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  threadpool.cpp
+  Generating Code...
+  BenzJonathanIGME750Assignment4.vcxproj -> C:\Users\zombi\source\repos\BenzJonathanIGME750Assignment4\x64\Debug\BenzJonathanIGME750Assignment4.exe

@@ -1,0 +1,9 @@
+﻿  game.cpp
+  game_object.cpp
+  main.cpp
+C:\Users\zombi\source\repos\BenzJonathanIGME750Assignment4\BenzJonathanIGME750Assignment4\main.cpp(59,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  projectile.cpp
+  sprite.cpp
+  Generating Code...
+  glad.c
+  BenzJonathanIGME750Assignment4.vcxproj -> C:\Users\zombi\source\repos\BenzJonathanIGME750Assignment4\BenzJonathanIGME750Assignment4\x64\Debug\BenzJonathanIGME750Assignment4.exe
